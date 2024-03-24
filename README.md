@@ -17,7 +17,7 @@ The Redmi Note 10s (codenamed _"rosemary"_) is a high-end, mid-range smartphone 
 | Camera (Front)          | 13MP                                                                                                     |
 
 ## Device picture
-![image](https://github.com/lberatl/2nd-pbrp-tree/assets/75970161/62613e76-1893-4f01-b7ea-7ca3e679fdc4)
+![image](https://github.com/lberatl/pbrp-rosemary/assets/75970161/ad68e379-16eb-45fa-b787-6bfd5b182459)
 
 
 ### Blocking checks
